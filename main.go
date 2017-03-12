@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	var vpn = flag.String("vpn", "MUS123EJ", "Vehicle Plate Number")
+	var vpn = flag.String("vpn", "JJJ895AX", "Vehicle Plate Number")
 	flag.Parse()
 	resp, err := http.Get(fmt.Sprintf("%s%s", "http://www.lsmvaapvs.org/search.php?vpn=", strings.TrimSpace(*vpn)))
 	if err != nil {
