@@ -7,7 +7,7 @@ This tool is not from and neither is it endorsed by Lagos State Government
 
 ## Usage
 
-Download the tool from here for your OS platform and execute the command below:
+Download the tool from [here], extract for your OS platform and execute the command below:
 
 
 For macOS
@@ -16,10 +16,12 @@ For macOS
 
 For Linux
 
-    $ vreg_linux -vpn PLATE_NUMBER
+    $ ./vreg_linux -vpn PLATE_NUMBER
 
  For Windows
 
     $ vreg_windows -vpn PLATE_NUMBER
 
 with PLATE_NUMBER replaced by the actual plate number of interest.
+
+[here]: https://github.com/alexcrownus/vreg/releases
