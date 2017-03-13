@@ -25,9 +25,9 @@ func main() {
 	}
 	body, err := ioutil.ReadAll(resp.Body)
 	html := string(body)
-	sanitized := strings.Replace(html, "<!--", "", 9)
-	sanitized = strings.Replace(sanitized, "-->", "", 9)
-	doc, err := goquery.NewDocumentFromReader(strings.NewReader(sanitized))
+	//sanitized := strings.Replace(html, "<!--", "", 9)
+	//sanitized = strings.Replace(sanitized, "-->", "", 9)
+	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
 		log.Fatal(err)
 	}
