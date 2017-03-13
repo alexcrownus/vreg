@@ -24,4 +24,4 @@ For Linux
 
 with PLATE_NUMBER replaced by the actual plate number of interest.
 
-[here]: https://github.com/alexcrownus/vreg/files/836602/Archive.zip
+[here]: https://github.com/alexcrownus/vreg/files/839819/Archive.zip
