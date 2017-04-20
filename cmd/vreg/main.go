@@ -1,4 +1,4 @@
-package vreg
+package main
 
 import (
 	"github.com/alexcrownus/vreg"
@@ -20,7 +20,7 @@ func main() {
 		cli.StringFlag{
 			Name:  "vpn",
 			Value: "JJJ895AX2",
-			Usage: "Vehicle Plate Number",
+			Usage: "vehicle plate number",
 		},
 	}
 	app.Action = func(c *cli.Context) error {
