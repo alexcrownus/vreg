@@ -10,7 +10,7 @@ import (
 var version = "master"
 
 func main() {
-	os.Setenv("HTTP_PROXY", "http://172.16.10.20:8080")
+	//os.Setenv("HTTP_PROXY", "http://172.16.10.20:8080")
 	app := cli.NewApp()
 	app.Name = "vreg"
 	app.Version = version
@@ -19,7 +19,7 @@ func main() {
 	app.Flags = []cli.Flag{
 		cli.StringFlag{
 			Name:  "vpn",
-			Value: "JJJ895AX2",
+			Value: "JJJ895AX",
 			Usage: "vehicle plate number",
 		},
 	}

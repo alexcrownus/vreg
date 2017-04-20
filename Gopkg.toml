@@ -1,0 +1,12 @@
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/PuerkitoBio/goquery"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/caarlos0/spin"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/urfave/cli"

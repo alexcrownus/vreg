@@ -1,0 +1,31 @@
+memo = "a4aac48ea35e8077bb9f6e2141cec744a0112d4152fcc6186306e3d10a7bc0d7"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/PuerkitoBio/goquery"
+  packages = ["."]
+  revision = "152b1a2c8f5d0340f658bb656032a39b94e52958"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/andybalholm/cascadia"
+  packages = ["."]
+  revision = "1c31af6f6c1a7b101ed05aacc7d8a738b43ae86e"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/caarlos0/spin"
+  packages = ["."]
+  revision = "17b0207c4020c9d7144a53d314e192703d229fb3"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/urfave/cli"
+  packages = ["."]
+  revision = "c723b19a84af34d905773672ffa1b8ead802e505"
+
+[[projects]]
+  branch = "master"
+  name = "golang.org/x/net"
+  packages = ["html","html/atom"]
+  revision = "67957fd0b1868d2b9f4fd2b3a3474c83bc3d49c3"
