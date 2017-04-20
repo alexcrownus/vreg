@@ -27,4 +27,3 @@ with PLATE_NUMBER replaced by the actual plate number of interest.
 [here]: https://github.com/alexcrownus/vreg/files/839819/Archive.zip
 
 [![Coverage Status](https://coveralls.io/repos/github/alexcrownus/vreg/badge.svg?branch=master)](https://coveralls.io/github/alexcrownus/vreg?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/alexcrownus/vreg/badge.svg)](https://coveralls.io/github/alexcrownus/vreg)
