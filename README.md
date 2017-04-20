@@ -26,4 +26,6 @@ with PLATE_NUMBER replaced by the actual plate number of interest.
 
 [here]: https://github.com/alexcrownus/vreg/files/839819/Archive.zip
 
+[![Travis](https://img.shields.io/travis/alexcrownus/vreg.svg?style=flat-square)](https://travis-ci.org/alexcrownus/vreg)
+
 [![Coverage Status](https://coveralls.io/repos/github/alexcrownus/vreg/badge.svg?branch=master)](https://coveralls.io/github/alexcrownus/vreg?branch=master)
