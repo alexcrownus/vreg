@@ -1,0 +1,9 @@
+build:
+  main: ./cmd/vreg/main.go
+  goarch:
+    - amd64
+brew:
+  github:
+    owner: alexcrownus
+    name: homebrew-tap
+  folder: Formula

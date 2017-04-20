@@ -1,8 +1,11 @@
 # vreg
 
 
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Travis](https://img.shields.io/travis/alexcrownus/vreg.svg?style=flat-square)](https://travis-ci.org/alexcrownus/vreg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/alexcrownus/vreg?style=flat-square)](https://goreportcard.com/report/github.com/alexcrownus/vreg)
 [![Coverage Status](https://coveralls.io/repos/github/alexcrownus/vreg/badge.svg?branch=master)](https://coveralls.io/github/alexcrownus/vreg?branch=master)
+[![Godoc](https://godoc.org/github.com/alexcrownus/vreg?status.svg&style=flat-square)](http://godoc.org/github.com/alexcrownus/vreg)
 
 Command line tool for http://www.lsmvaapvs.org/index.php for checking vehicle registration details, just for fun
 
