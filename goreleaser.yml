@@ -1,7 +1,12 @@
 build:
   main: ./cmd/vreg/main.go
+  binary: vreg
+  goos:
+    - windows
+    - darwin
+    - linux
   goarch:
-    - amd64
+  - amd64
 brew:
   github:
     owner: alexcrownus
