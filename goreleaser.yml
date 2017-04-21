@@ -1,6 +1,5 @@
 build:
   main: ./cmd/vreg/main.go
-  binary: vreg
   goos:
     - windows
     - darwin
